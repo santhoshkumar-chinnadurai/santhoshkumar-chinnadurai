@@ -1,0 +1,24 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IDE Files ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+### Database & Archives ###
+*.mv.db
+*.trace.db
+*.tar.gz
+*.zip
+
+### OS Files ###
+.DS_Store
+Thumbs.db

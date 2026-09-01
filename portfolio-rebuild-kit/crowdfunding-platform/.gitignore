@@ -1,0 +1,26 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Database binaries
+*.mv.db
+*.trace.db
+
+# IDE Files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.production
+!.env.example
