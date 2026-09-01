@@ -1,4 +1,4 @@
-# Santhosh Kumar
+# SANTHOSHKUMAR CHINNADURAI
 
 ### Full-Stack Developer | Java | Spring Boot | React | TypeScript
 
