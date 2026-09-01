@@ -1,88 +1,93 @@
-# Santhoshkumar Chinnadurai
+# Santhosh Kumar
 
-**Full-Stack Developer | Software Developer**  
-*Specializing in Java, Spring Boot 3, NestJS, TypeScript, React 19, Next.js 16, and Distributed Architectures.*
+### Full-Stack Developer | Java | Spring Boot | React | TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumar-chinnadurai-4b8034344)
-[![Email](https://img.shields.io/badge/Email-santhosh2001ramesh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhosh2001ramesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-santhoshkumar--chinnadurai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhoshkumar-chinnadurai)
+I build full-stack web applications and REST APIs using modern frontend and backend technologies. I enjoy solving real-world problems through clean, maintainable, and scalable software.
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-- **Full-Stack & Backend Engineer** experienced in architecting scalable enterprise web platforms, secure RESTful APIs, and reactive web applications.
-- **Backend Specialization**: Java 21 / Spring Boot 3 (Spring Security, JWT, Spring Data JPA, Hibernate, OpenAPI/Swagger), NestJS, and Node.js / Express.
-- **Frontend Engineering**: React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS, Framer Motion, and GSAP.
-- **Databases & DevOps**: PostgreSQL (PostGIS), MySQL, MongoDB (Mongoose), H2 Database, Docker, and Docker Compose.
-- **Education**: Computer Science & Engineering background from Sri Krishna College of Engineering and Technology & Thiagarajar Polytechnic College.
-- **Certifications**: Infosys Springboard (Java Backend & AI), Microsoft (Generative AI), and Cisco Networking Academy (Python & Cybersecurity).
-
----
-
-## Technical Skills
-
-| Category | Technologies & Tools |
-|---|---|
-| **Languages** | Java (21 / 17), TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3 |
-| **Backend Frameworks** | Spring Boot 3, NestJS, Express.js, Node.js |
-| **Security & Architecture** | Spring Security, JWT (Stateless Auth), Role-Based Access Control (RBAC), RESTful API Design, Microservices |
-| **Frontend & UI** | React 19, Next.js 16, Vite, Tailwind CSS, Framer Motion, GSAP, Leaflet Maps, Recharts |
-| **Databases & ORMs** | PostgreSQL (PostGIS), MySQL, MongoDB (Mongoose), Spring Data JPA / Hibernate, H2 Database, TypeORM |
-| **DevOps & Cloud** | Docker, Docker Compose, Git, GitHub Actions, Render, Vercel |
-| **Development Tools** | Maven, Postman, Swagger UI / OpenAPI 3, IntelliJ IDEA, VS Code, Oxlint, ESLint |
+- 💻 Full-Stack Developer focused on Java, Spring Boot, React and TypeScript
+- 🔧 Experienced in developing REST APIs and database-driven applications
+- 🗄️ Working with MySQL and PostgreSQL
+- 🐳 Exploring Docker, CI/CD and cloud deployment
+- 🚀 Interested in building practical and production-ready applications
+- 📚 Continuously learning and improving my software engineering skills
 
 ---
 
-## Featured Projects
+## 🛠️ Technical Skills
 
-### [EcoCivic: Civic Issue Reporting Platform](https://github.com/santhoshkumar-chinnadurai/ecocivic-issue-reporting-system)
-> **Enterprise Civic Management & Municipal Dispatch Platform**  
-> `NestJS` • `TypeScript` • `PostgreSQL` • `PostGIS` • `React 19` • `Leaflet Maps` • `Docker` • `Flutter`
-> - Architected a multi-role municipal management platform serving Citizens, Field Workers, Municipal Officials, and Super Admins with strict Role-Based Access Control (RBAC).
-> - Integrated PostGIS spatial queries with Leaflet for real-time interactive geotagged complaint dispatching.
-> - Built automated SLA escalation engines and incident summary report generation exported via PDF.
+### Languages
+Java · JavaScript · TypeScript · SQL · HTML · CSS
 
-### [CrowdFunding Platform](https://github.com/santhoshkumar-chinnadurai/crowdfunding-platform)
-> **Full-Stack Crowdfunding & Campaign Processing Engine**  
-> `Java 21` • `Spring Boot 3` • `Spring Security` • `JWT` • `Spring Data JPA` • `React` • `Tailwind CSS` • `Docker`
-> - Implemented stateless JWT authentication and authorization with custom Spring Security filter chains.
-> - Designed relational models and DTO validation layers for campaigns, financial pledges, digital wallets, and community comments.
-> - Developed a responsive React SPA with dynamic funding progress analytics and campaign lifecycle management.
+### Frontend
+React · Next.js · Tailwind CSS
 
-### [Job Portal REST API](https://github.com/santhoshkumar-chinnadurai/job-portal-api)
-> **Enterprise Recruitment & Job Application API**  
-> `Java 21` • `Spring Boot 3.4` • `Spring Data JPA` • `Springdoc OpenAPI / Swagger` • `H2 / MySQL` • `Maven`
-> - Developed a 3-tier clean REST API covering full CRUD workflows for Applicants, Employers, Job Listings, and Applications.
-> - Implemented dynamic pagination (`Pageable`), custom JPQL search filters (salary ranges, location, job type), global exception handling, and automated integration tests.
-> - Integrated Springdoc OpenAPI 3 for interactive live API documentation and Swagger UI exploration.
+### Backend
+Spring Boot · Spring Security · Node.js · NestJS · REST APIs
 
-### [Interactive Next.js Portfolio](https://github.com/santhoshkumar-chinnadurai/developer-portfolio-nextjs)
-> **High-Performance 3D Developer Portfolio Experience**  
-> `Next.js 16` • `React 19` • `TypeScript` • `Tailwind CSS` • `Three.js` • `GSAP` • `Framer Motion`
-> - Engineered an interactive personal portfolio featuring real-time Three.js particle auroras, magnetic physics micro-interactions, and accessible modals.
-> - Built using the Next.js App Router for optimized bundle splitting, fast page loads, and responsive mobile-first layouts.
+### Databases
+MySQL · PostgreSQL · MongoDB
+
+### DevOps & Tools
+Git · GitHub · Docker · Docker Compose · GitHub Actions · Vercel · Render
 
 ---
 
-## Verified Certifications
+## 🚀 Featured Projects
 
-- **Infosys Springboard**: Java & Backend Development *(Jan 2025)*
-- **Infosys Springboard**: AI & Data Science *(Feb 2026)*
-- **Infosys Springboard**: Linux & IoT Edge *(2024 - 2025)*
-- **Microsoft**: Generative AI Academic Initiative
-- **Microsoft (via Coursera)**: Microsoft 365 Copilot & GenAI *(May 2026)*
-- **Cisco Networking Academy**: Python Essentials *(Feb 2026)*
-- **Cisco Networking Academy**: Introduction to Cybersecurity *(Feb 2026)*
-- **ICT Academy**: Web Development Certification
+### 🌱 [EcoCivic](https://github.com/santhoshkumar-chinnadurai/ecocivic-issue-reporting-system)
+**Civic Issue Reporting & Municipal Management Platform**  
+A full-stack platform designed to manage civic complaints, municipal workflows and issue resolution.  
+**Tech:** NestJS · TypeScript · React · PostgreSQL/PostGIS · Docker
 
 ---
 
-## Contact & Profiles
+### 💰 [Crowdfunding Platform](https://github.com/santhoshkumar-chinnadurai/crowdfunding-platform)
+**Full-Stack Crowdfunding Application**  
+A web application for creating, discovering and managing crowdfunding campaigns with authentication and secure backend APIs.  
+**Tech:** Java · Spring Boot · Spring Security · JWT · React · MySQL · Docker
 
-| Platform | Link |
-|---|---|
-| **LinkedIn** | [linkedin.com/in/santhoshkumar-chinnadurai-4b8034344](https://www.linkedin.com/in/santhoshkumar-chinnadurai-4b8034344) |
-| **Email** | [santhosh2001ramesh@gmail.com](mailto:santhosh2001ramesh@gmail.com) |
-| **GitHub** | [github.com/santhoshkumar-chinnadurai](https://github.com/santhoshkumar-chinnadurai) |
-| **Location** | Tamil Nadu, India |
+---
+
+### 💼 [Job Portal API](https://github.com/santhoshkumar-chinnadurai/job-portal-api)
+**Job Recruitment & Application REST API**  
+Backend API for managing job listings, users and job applications.  
+**Tech:** Java · Spring Boot · Spring Data JPA · MySQL · Swagger
+
+---
+
+### 🎨 [Interactive Developer Portfolio](https://github.com/santhoshkumar-chinnadurai/developer-portfolio-nextjs)
+**Modern Personal Portfolio Website**  
+An interactive portfolio showcasing my projects, technical skills and development experience.  
+**Tech:** Next.js · React · TypeScript · Three.js · GSAP · Framer Motion
+
+---
+
+## 📜 Certifications
+
+- Microsoft — Generative AI Academic Initiative
+- Cisco Networking Academy — Technical Certification
+- Infosys Springboard — Technical Certification
+- ICT Academy — Technical Certification
+
+---
+
+## 📊 GitHub
+
+I use GitHub to build, document and continuously improve software projects.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/santhoshkumar-chinnadurai-4b8034344](https://www.linkedin.com/in/santhoshkumar-chinnadurai-4b8034344)
+- 🌐 Portfolio: [developer-portfolio-nextjs](https://github.com/santhoshkumar-chinnadurai/developer-portfolio-nextjs)
+- 📧 Email: [santhosh2001ramesh@gmail.com](mailto:santhosh2001ramesh@gmail.com)
+
+---
+
+### Thanks for visiting my profile!
+Feel free to explore my repositories and projects.
